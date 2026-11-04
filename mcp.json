@@ -1,0 +1,15 @@
+{
+  "name": "opportunity-discovery-agent-9667",
+  "version": "1.0.0",
+  "description": "Multi-source autonomous intelligence platform for discovering and scoring global business, research, and market opportunities from live public APIs.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
